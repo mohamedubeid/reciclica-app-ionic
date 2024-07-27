@@ -1,0 +1,7 @@
+{
+  "name": "reciclica-app-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
