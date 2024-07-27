@@ -1,0 +1,22 @@
+ion-content {
+  --background: var(--ion-color-success);
+}
+
+ion-radio {
+  --border-radius: 50px;
+  --inner-border-radius: 50px;
+
+  --color: #ddd;
+}
+
+ion-radio.ios::part(container) {
+  width: 20px;
+  height: 20px;
+
+  border: 2px solid #ddd;
+  border-radius: 50px;
+}
+
+ion-button {
+  margin: 10px;
+}
